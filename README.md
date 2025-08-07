@@ -1,2 +1,2 @@
-# pixel-bliss-grub-theme
+# bliss-grub-theme
 a cute GRUB theme
